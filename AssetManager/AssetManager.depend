@@ -1,0 +1,321 @@
+# depslib dependency file v1.0
+1505432540 source:c:\users\kasparov\desktop\assetmanager\assetmanager\asset.cpp
+	"asset.h"
+
+1505439774 c:\users\kasparov\desktop\assetmanager\assetmanager\asset.h
+	<string>
+	"date.h"
+
+1505421193 c:\users\kasparov\desktop\assetmanager\assetmanager\date.h
+	<string>
+
+1505421377 source:c:\users\kasparov\desktop\assetmanager\assetmanager\date.cpp
+	"date.h"
+	<sstream>
+	<ctime>
+	<cstdlib>
+
+1505423608 source:c:\users\kasparov\desktop\assetmanager\assetmanager\main.cpp
+	<iostream>
+	"menuinterface.h"
+
+1505434293 source:c:\users\kasparov\desktop\assetmanager\assetmanager\computer.cpp
+	"computer.h"
+
+1505432511 c:\users\kasparov\desktop\assetmanager\assetmanager\computer.h
+	"asset.h"
+	"custodian.h"
+	"computer.h"
+
+1505435244 source:c:\users\kasparov\desktop\assetmanager\assetmanager\assetregister.cpp
+	"assetregister.h"
+	<memory>
+	"Asset.h"
+
+1505435910 c:\users\kasparov\desktop\assetmanager\assetmanager\assetregister.h
+	<memory>
+	"Asset.h"
+	<map>
+
+1505438899 c:\users\kasparov\desktop\assetmanager\assetmanager\menuinterface.h
+	<iostream>
+
+1505438899 source:c:\users\kasparov\desktop\assetmanager\assetmanager\menuinterface.cpp
+	"menuinterface.h"
+	"assetregister.h"
+	<limits>
+	"addmenuinterface.h"
+
+1505433285 source:c:\users\kasparov\desktop\assetmanager\assetmanager\custodian.cpp
+	"custodian.h"
+
+1505433355 c:\users\kasparov\desktop\assetmanager\assetmanager\custodian.h
+	<string>
+	"date.h"
+
+1505434336 source:c:\users\kasparov\desktop\assetmanager\assetmanager\television.cpp
+	"television.h"
+
+1505432570 c:\users\kasparov\desktop\assetmanager\assetmanager\television.h
+	"Asset.h"
+
+1505434366 source:c:\users\kasparov\desktop\assetmanager\assetmanager\phone.cpp
+	"phone.h"
+
+1505433005 c:\users\kasparov\desktop\assetmanager\assetmanager\phone.h
+	"custodian.h"
+	"Asset.h"
+
+1505434321 source:c:\users\kasparov\desktop\assetmanager\assetmanager\hmd.cpp
+	"hmd.h"
+
+1505433159 c:\users\kasparov\desktop\assetmanager\assetmanager\hmd.h
+	"Asset.h"
+	"custodian.h"
+
+1505433737 source:c:\users\kasparov\desktop\assetmanager\assetmanager\mrecord.cpp
+	"mrecord.h"
+
+1505433775 c:\users\kasparov\desktop\assetmanager\assetmanager\mrecord.h
+	<string>
+	"date.h"
+
+1505439565 source:c:\users\kasparov\desktop\assetmanager\assetmanager\addmenuinterface.cpp
+	"addmenuinterface.h"
+	<iostream>
+
+1505440318 c:\users\kasparov\desktop\assetmanager\assetmanager\addmenuinterface.h
+	"menuinterface.h"
+	<iostream>
+	"Asset.h"
+
+1505567855 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\addmenuinterface.cpp
+	"addmenuinterface.h"
+	<iostream>
+	"computer.h"
+	"assetregister.h"
+
+1505567075 c:\users\aelmottaki\desktop\assetmanager\assetmanager\addmenuinterface.h
+	"menuinterface.h"
+	<iostream>
+	"Asset.h"
+	<memory>
+
+1505553069 c:\users\aelmottaki\desktop\assetmanager\assetmanager\menuinterface.h
+	<iostream>
+	"date.h"
+
+1505571896 c:\users\aelmottaki\desktop\assetmanager\assetmanager\asset.h
+	<string>
+	"date.h"
+
+1505395993 c:\users\aelmottaki\desktop\assetmanager\assetmanager\date.h
+	<string>
+
+1505553974 c:\users\aelmottaki\desktop\assetmanager\assetmanager\computer.h
+	"asset.h"
+	"custodian.h"
+	"computer.h"
+
+1505408155 c:\users\aelmottaki\desktop\assetmanager\assetmanager\custodian.h
+	<string>
+	"date.h"
+
+1505579253 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\asset.cpp
+	"asset.h"
+
+1505581518 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\assetregister.cpp
+	"assetregister.h"
+	<memory>
+	"Asset.h"
+	<algorithm>
+	"computer.h"
+
+1505581394 c:\users\aelmottaki\desktop\assetmanager\assetmanager\assetregister.h
+	<memory>
+	"Asset.h"
+	<map>
+	<iostream>
+
+1505580381 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\computer.cpp
+	"computer.h"
+
+1505408085 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\custodian.cpp
+	"custodian.h"
+
+1505396177 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\date.cpp
+	"date.h"
+	<sstream>
+	<ctime>
+	<cstdlib>
+
+1505409121 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\hmd.cpp
+	"hmd.h"
+
+1505407959 c:\users\aelmottaki\desktop\assetmanager\assetmanager\hmd.h
+	"Asset.h"
+	"custodian.h"
+
+1505579850 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\main.cpp
+	<iostream>
+	"menuinterface.h"
+	<memory>
+	"assetregister.h"
+	"computer.h"
+
+1505577304 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\menuinterface.cpp
+	"menuinterface.h"
+	"assetregister.h"
+	<limits>
+	"addmenuinterface.h"
+	"displaybytypeinterface.h"
+	"findassetmenu.h"
+
+1505408537 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\mrecord.cpp
+	"mrecord.h"
+
+1505408575 c:\users\aelmottaki\desktop\assetmanager\assetmanager\mrecord.h
+	<string>
+	"date.h"
+
+1505409166 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\phone.cpp
+	"phone.h"
+
+1505407805 c:\users\aelmottaki\desktop\assetmanager\assetmanager\phone.h
+	"custodian.h"
+	"Asset.h"
+
+1505409136 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\television.cpp
+	"television.h"
+
+1505407370 c:\users\aelmottaki\desktop\assetmanager\assetmanager\television.h
+	"Asset.h"
+
+1505576085 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\displaybytypeinterface.cpp
+	"displaybytypeinterface.h"
+	"assetregister.h"
+
+1505569804 c:\users\aelmottaki\desktop\assetmanager\assetmanager\displaybytypeinterface.h
+	"menuinterface.h"
+
+1505577118 source:c:\users\aelmottaki\desktop\assetmanager\assetmanager\findassetmenu.cpp
+	"findassetmenu.h"
+
+1505577146 c:\users\aelmottaki\desktop\assetmanager\assetmanager\findassetmenu.h
+	"menuinterface.h"
+
+1505593055 source:c:\users\kasparov\documents\assetmanager\assetmanager\addmenuinterface.cpp
+	"addmenuinterface.h"
+	<iostream>
+	"computer.h"
+	"assetregister.h"
+
+1505592275 c:\users\kasparov\documents\assetmanager\assetmanager\addmenuinterface.h
+	"menuinterface.h"
+	<iostream>
+	"Asset.h"
+	<memory>
+
+1505578269 c:\users\kasparov\documents\assetmanager\assetmanager\menuinterface.h
+	<iostream>
+	"date.h"
+
+1505421193 c:\users\kasparov\documents\assetmanager\assetmanager\date.h
+	<string>
+
+1505498294 c:\users\kasparov\documents\assetmanager\assetmanager\asset.h
+	<string>
+	"date.h"
+
+1505579174 c:\users\kasparov\documents\assetmanager\assetmanager\computer.h
+	"asset.h"
+	"custodian.h"
+	"computer.h"
+
+1505433355 c:\users\kasparov\documents\assetmanager\assetmanager\custodian.h
+	<string>
+	"date.h"
+
+1505498772 c:\users\kasparov\documents\assetmanager\assetmanager\assetregister.h
+	<memory>
+	"Asset.h"
+	<map>
+	<iostream>
+
+1505498545 source:c:\users\kasparov\documents\assetmanager\assetmanager\asset.cpp
+	"asset.h"
+
+1505498802 source:c:\users\kasparov\documents\assetmanager\assetmanager\assetregister.cpp
+	"assetregister.h"
+	<memory>
+	"Asset.h"
+	<algorithm>
+	"computer.h"
+
+1505605581 source:c:\users\kasparov\documents\assetmanager\assetmanager\computer.cpp
+	"computer.h"
+
+1505433285 source:c:\users\kasparov\documents\assetmanager\assetmanager\custodian.cpp
+	"custodian.h"
+
+1505421377 source:c:\users\kasparov\documents\assetmanager\assetmanager\date.cpp
+	"date.h"
+	<sstream>
+	<ctime>
+	<cstdlib>
+
+1505601285 source:c:\users\kasparov\documents\assetmanager\assetmanager\displaybytypeinterface.cpp
+	"displaybytypeinterface.h"
+	"assetregister.h"
+
+1505595004 c:\users\kasparov\documents\assetmanager\assetmanager\displaybytypeinterface.h
+	"menuinterface.h"
+
+1505602318 source:c:\users\kasparov\documents\assetmanager\assetmanager\findassetmenu.cpp
+	"findassetmenu.h"
+
+1505602346 c:\users\kasparov\documents\assetmanager\assetmanager\findassetmenu.h
+	"menuinterface.h"
+
+1505434321 source:c:\users\kasparov\documents\assetmanager\assetmanager\hmd.cpp
+	"hmd.h"
+
+1505433159 c:\users\kasparov\documents\assetmanager\assetmanager\hmd.h
+	"Asset.h"
+	"custodian.h"
+
+1505605050 source:c:\users\kasparov\documents\assetmanager\assetmanager\main.cpp
+	<iostream>
+	"menuinterface.h"
+	<memory>
+	"assetregister.h"
+	"computer.h"
+
+1505606880 source:c:\users\kasparov\documents\assetmanager\assetmanager\menuinterface.cpp
+	"menuinterface.h"
+	"assetregister.h"
+	<limits>
+	"addmenuinterface.h"
+	"displaybytypeinterface.h"
+	"findassetmenu.h"
+
+1505433737 source:c:\users\kasparov\documents\assetmanager\assetmanager\mrecord.cpp
+	"mrecord.h"
+
+1505433775 c:\users\kasparov\documents\assetmanager\assetmanager\mrecord.h
+	<string>
+	"date.h"
+
+1505434366 source:c:\users\kasparov\documents\assetmanager\assetmanager\phone.cpp
+	"phone.h"
+
+1505433005 c:\users\kasparov\documents\assetmanager\assetmanager\phone.h
+	"custodian.h"
+	"Asset.h"
+
+1505434336 source:c:\users\kasparov\documents\assetmanager\assetmanager\television.cpp
+	"television.h"
+
+1505432570 c:\users\kasparov\documents\assetmanager\assetmanager\television.h
+	"Asset.h"
+
